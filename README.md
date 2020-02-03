@@ -14,3 +14,9 @@ Things we need to figure out:
 </li></ul>
 
 Maybe this will be fun?
+
+If you know nothing about Java, but want to do junk, here are links you can use:
+
+http://gamecodeschool.com/java-tutorials/ - Simple Intro.
+
+http://greenteapress.com/thinkjava6/thinkjava.pdf - Best Intro I Know. A little, but not too intense. :P
